@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">My ApplicationBicycles</string>
+    <string name="hello_world_world_of_bikes">Hello World! World of Bikes.</string>
+    <string name="get_started">Get started</string>
+    <string name="sign_up">Sign up</string>
+    <string name="enter_your_email">Enter your email</string>
+    <string name="welcome_to_the_world_of_cycling">WELCOME TO THE WORLD OF CYCLING.</string>
+    <string name="log_out">LOG OUT</string>
+    <string name="where_cyclers_meet">WHERE CYCLERS MEET:)</string>
+    <string name="introduction" />
+    <string name="Itemi">item 1</string>
+    <string name="Itemii">iteem2</string>
+    <string name="Itemiii">item3</string>
+    <string name="subitemi">sub1</string>
+    <string name="subitemii">sub2</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
